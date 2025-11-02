@@ -44,3 +44,6 @@ It verifies the authenticity of text or image-based claims in seconds — whethe
    ```bash
    git clone https://github.com/aryanprahraj/ai-detective.git
    cd ai-detective
+
+   🌐 **Live Demo:** [AI Detective App](https://ai-detective-aryanprahraj.streamlit.app)
+
